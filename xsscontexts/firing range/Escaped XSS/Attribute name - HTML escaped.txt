@@ -1,0 +1,3 @@
+https://public-firing-range.appspot.com/escape/serverside/escapeHtml/attribute_name?q=%27onmouseover=alert()%20a=
+
+kaynak kodda bir sıkıntı olmadan yansıyor fakat tag tagine herhangi bir event yaptıramıyorum. Başka bir tag olsa çalışır gibi 

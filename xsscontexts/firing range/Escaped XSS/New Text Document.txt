@@ -1,0 +1,4 @@
+https://public-firing-range.appspot.com/escape/serverside/escapeHtml/attribute_quoted?q=aq%22%20onclick=%27alert()%27%20name=%22
+
+
+başka etiket olsa çlışır gibi yine tage bir şey yapamıyprum 

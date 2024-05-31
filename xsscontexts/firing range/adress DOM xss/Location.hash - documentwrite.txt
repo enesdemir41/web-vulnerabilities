@@ -1,0 +1,4 @@
+https://public-firing-range.appspot.com/address/location.hash/documentwrite#enes 
+
+# işaretinden sonraki payloadı document.write ile basıyor fakat herhangi bir alert alamadım çoğu taglar encode ediliyordu. ve "" içerisinden çıkamıyordum 
+document.write(payload) )+alert( , +alert() yaparak  manipüle etmeye çalıştım fakat olmadı . 

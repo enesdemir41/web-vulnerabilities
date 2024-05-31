@@ -1,0 +1,1 @@
+https://public-firing-range.appspot.com/reflected/parameter/json?q=%3CscrIpt%3Ealert(1);%3C/scRipt%3E

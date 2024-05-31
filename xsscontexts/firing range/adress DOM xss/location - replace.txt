@@ -1,0 +1,5 @@
+httpspublic-firing-range.appspot.comaddresslocationreplace
+
+location dan aldgıgı değeri payload değikenine atıyor daha sonra repclace fonkisonuna gidiyor
+
+javascript:alert()

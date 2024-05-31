@@ -1,0 +1,2 @@
+https://public-firing-range.appspot.com/reflected/parameter/head?q=%3Cscript%3Ealert()%3C/script%3E
+<script>alert()</script>

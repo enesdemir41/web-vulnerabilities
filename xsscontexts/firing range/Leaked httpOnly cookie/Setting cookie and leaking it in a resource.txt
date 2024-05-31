@@ -1,0 +1,4 @@
+Benim burada anladığım httponly kullanılarak cookieye ulaşılamaz fakat geliştirici cookieyi herhangi bir değişken içerisinde kullanırsa vs document.cookie demeye gerek kalmadan hangi değişken de tutuluyorsa cookie onu çağırabiliriz.
+
+alert(document.cookie) çalışmaz 
+alert(secretcookivariable) çalışır

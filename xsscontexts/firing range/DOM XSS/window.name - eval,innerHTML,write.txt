@@ -1,0 +1,1 @@
+window.name e nasıl değer vereceğimi bulamadım fakat console ekranından window.name = alert yaptım hepsinde böyle olur mu bilmem :)

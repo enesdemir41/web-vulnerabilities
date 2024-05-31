@@ -1,0 +1,1 @@
+cookie değerini direkt evla içersine koyuyor. cookie değerini alert() yaptım ve popup çıktı 

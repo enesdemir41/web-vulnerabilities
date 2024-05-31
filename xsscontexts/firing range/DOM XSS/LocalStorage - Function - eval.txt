@@ -1,0 +1,3 @@
+localstorage taki değeri eval içerisine koyuyordu. 
+localstorage a alert() verdim 
+debugger kullandım 

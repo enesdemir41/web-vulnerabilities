@@ -1,0 +1,1 @@
+https://public-firing-range.appspot.com/escape/js/html_escape?q=a%3C/script%3E%3Cscript%3Ealert()%3C/script%3E

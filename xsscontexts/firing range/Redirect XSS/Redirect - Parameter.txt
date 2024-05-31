@@ -1,0 +1,3 @@
+https://public-firing-range.appspot.com/redirect/parameter?url=https://google.com	
+
+url parametresi ile redirect var 

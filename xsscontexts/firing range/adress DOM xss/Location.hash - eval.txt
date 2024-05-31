@@ -1,0 +1,2 @@
+https://public-firing-range.appspot.com/address/location.hash/eval#alert() 
+# sonrasındaki stringi eval içerisine koyuyor

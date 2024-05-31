@@ -1,0 +1,7 @@
+https://public-firing-range.appspot.com/angular/angular_body_alt_symbols/1.4.0?q=%27a%27.constructor.prototype.charAt=[].join;%20$eval(%27x=1}%20}%20};alert(1)//%27);
+
+
+
+
+https://portswigger.net/research/xss-without-html-client-side-template-injection-with-angularjs buradan buldum 
+client side template injection 

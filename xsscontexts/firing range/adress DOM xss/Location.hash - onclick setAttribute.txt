@@ -1,0 +1,14 @@
+https://public-firing-range.appspot.com/address/location.hash/onclickSetAttribute#alert()
+
+      var payload = window.location.hash.substr(1);var div = document.createElement('div');
+div.setAttribute('onclick', payload);
+document.documentElement.appendChild(div);
+    
+
+bizden alıdığı payloadı 
+
+<div onclick="payload"> şeklinde koyuyor
+direkt alert() yazılabilir 
+
+fakat div elementinin içinde herhangi bir element olmadıgı için tıklanmıyor ben tıklayamadım 
+localimde divin içerisine string ekleyip stringe tıkladıgımda alerti alabildim 

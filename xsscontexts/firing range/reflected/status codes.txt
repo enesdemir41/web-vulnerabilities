@@ -1,0 +1,5 @@
+https://public-firing-range.appspot.com/reflected/parameter/body/400?q=%3Cscript%3Ealert(%221%22);%3C/script%3E
+https://public-firing-range.appspot.com/reflected/parameter/body/401?q=%3Cimg%20src=x%20onerror=alert(%22naber1%22)%3E
+https://public-firing-range.appspot.com/reflected/parameter/body/403?q=%3Ch1%20onclick=alert()%3Edeneme%3C/h1%3E
+https://public-firing-range.appspot.com/reflected/parameter/body/404?q=%3Cbutton%20onclick=alert()%3Ebutoncuk%3C/button%3E
+https://public-firing-range.appspot.com/reflected/parameter/body/500?q=%3Cscript%3Ealert()%3C/script%3E

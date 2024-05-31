@@ -1,0 +1,8 @@
+https://public-firing-range.appspot.com/address/location.hash/function#alert()
+
+
+      var payload = window.location.hash.substr(1);var f = new Function(payload);
+f();
+    
+
+bizden aldığı paylaodı function içine koyuyor ve daha sonra bu functionu çağrıyor.

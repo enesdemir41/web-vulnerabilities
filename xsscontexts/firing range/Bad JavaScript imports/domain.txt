@@ -1,0 +1,14 @@
+https://public-firing-range.appspot.com/remoteinclude/parameter/script?q=http://g00gle.com/typosquatting_domain.js
+
+
+scritp parametresi ile verilen kaynaktan js import ediyor.
+
+deneme.js dosyası oluşturdum. 
+alert("deneme");
+
+daha sonra sunucu kurdum ve parametreye url verdim 
+
+https://09c1f9362129fbce9d1c5c896fdea873.serveo.net/deneme.js 
+
+bu şekilde alert aldım 
+

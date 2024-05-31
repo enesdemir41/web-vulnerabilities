@@ -1,0 +1,4 @@
+https://public-firing-range.appspot.com/address/location.hash/assign#javascript:alert(1)
+
+
+window.location.hash kullanılarak alınan değer, URL'deki # işaretinden sonra gelen kısmı döndürür. substr(1) yöntemi de bu # işaretini kaldırarak geriye kalan kısmı döndürür.

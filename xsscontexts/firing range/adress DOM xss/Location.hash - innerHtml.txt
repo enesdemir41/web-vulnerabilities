@@ -1,0 +1,15 @@
+var payload = window.location.hash.substr(1);var div = document.createElement('div');
+div.id = 'divEl';
+document.documentElement.appendChild(div);
+
+var divEl = document.getElementById('divEl');
+divEl.innerHTML = payload;
+
+
+Div elementi oluşturuyor
+Div elementine id veriyor divEl
+daha sonra html içine koyuyor.
+
+divEl innerHTML sayesinde payloadı koyuyor, localde denediğimde kod içerisinde  innerhmtl yeni taglar açmaya izin veriyor dışarıdan alınca olmuyor galiba
+
+    
