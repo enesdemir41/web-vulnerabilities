@@ -1,0 +1,1 @@
+https://brutelogic.com.br/multi/js-inline.php?p=-alert();//\
